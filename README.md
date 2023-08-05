@@ -2,6 +2,9 @@
 
 This is a short React application that has been implemented here to represent data in the form of a graph. It is built using React.js, a JavaScript library for building user interfaces, and Recharts, npm package manager dedicated to creating charts and graphs in React applications. Let's explore the key details of this application:
 
+# <span style="font-size: 1px;">React Application View</span>
+![Line Graph](https://github.com/rinapachkale/First-React-App/blob/master/Screenshot%202023-08-05%20130200.png)
+![Curve Graph](https://github.com/rinapachkale/First-React-App/assets/108327466/5ec35263-ade6-4914-8ffa-ab1ee2cbd88d)
 
 # <span style="font-size: 1px;">React.js:</span>
 
