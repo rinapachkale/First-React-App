@@ -1,6 +1,10 @@
-# <span style="font-size: 28px;">The React Application</span>
+# <span style="font-size: 28px;">My First React Application</span>
 
-This is a short React application that has been implemented here to represent data in the form of a graph. It is built using React.js, a JavaScript library for building user interfaces, and Recharts, npm package manager dedicated to creating charts and graphs in React applications. Let's explore the key details of this application:
+This is a short React application that has been implemented here to represent data in the form of a graph. It is built using React.js, a JavaScript library for building user interfaces, and Recharts, npm package manager dedicated to creating charts and graphs in React applications. This application is **deployed on Netlify**.
+
+Here is the URL : https://rinawithnetlify21.netlify.app/
+
+Let's explore the key details of this application:
 
 # <span style="font-size: 1px;">React Application View</span>
 ![Line Graph](https://github.com/rinapachkale/First-React-App/blob/master/Screenshot%202023-08-05%20130200.png)
